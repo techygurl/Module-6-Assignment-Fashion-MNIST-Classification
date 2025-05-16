@@ -25,12 +25,12 @@ Make sure you have **Python 3.6 or higher** installed.
 
 Open a terminal and run:
 
-import numpy as np
-import matplotlib.pyplot as plt
-from keras.datasets import fashion_mnist
-from keras.models import Sequential
-from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
-from keras.utils import to_categorical
+- import numpy as np
+- import matplotlib.pyplot as plt
+- from keras.datasets import fashion_mnist
+- from keras.models import Sequential
+- from keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
+- from keras.utils import to_categorical
 
 
 --- 
